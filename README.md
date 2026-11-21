@@ -7,6 +7,10 @@ Start with the permanent [Resident Guide](TTRP_GUIDE.md). A reference copy of th
 ## Project overview
 Describe the project purpose and the capabilities currently implemented. Refer to the project overview and assigned backlog in your TTRP workspace.
 
+
+
+
+
 ## Current backlog
 - **Backlog code:** `<EXACT_ASSIGNED_BACKLOG_CODE>`
 - **Title:** `<BACKLOG_TITLE>`
